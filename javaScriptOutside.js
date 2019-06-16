@@ -1,4 +1,2 @@
-
- function showAlert() {
-    alert('Attacked by XSS outside');
-  }
+alert('Attacked by XSS outside');
+  
